@@ -43,6 +43,7 @@
     {"id":{"name":"obj_npc","path":"objects/obj_npc/obj_npc.yy",},},
     {"id":{"name":"obj_play","path":"objects/obj_play/obj_play.yy",},},
     {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},},
+    {"id":{"name":"obj_teste","path":"objects/obj_teste/obj_teste.yy",},},
     {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
     {"id":{"name":"rm_inicia","path":"rooms/rm_inicia/rm_inicia.yy",},},
     {"id":{"name":"scr_inicia","path":"scripts/scr_inicia/scr_inicia.yy",},},
